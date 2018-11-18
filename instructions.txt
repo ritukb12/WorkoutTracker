@@ -1,0 +1,3 @@
+https://github.com/ritukb12/WorkoutTracker.git
+
+ng new my-workout-app
